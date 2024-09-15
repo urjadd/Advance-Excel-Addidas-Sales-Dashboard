@@ -1,5 +1,6 @@
 # Addidas Interactive Sales Dashboard
 
+![Screenshot 2024-09-15 140709](https://github.com/user-attachments/assets/3687625f-aacb-4030-8240-a1fac8010d8e)
 
 ### Purpose:
 The primary objective of this project is to develop an interactive sales dashboard for Adidas, designed to facilitate data-driven decision-making. The dashboard provides a streamlined, user-friendly interface to visualize key sales metrics, trends, and performance indicators. By leveraging advanced Excel functionalities, it allows users to explore and analyze sales data efficiently, thereby enabling better business insights and strategic planning.
